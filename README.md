@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Bloc - Dark Mode - SharedPreferences
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
