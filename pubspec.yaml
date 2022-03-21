@@ -36,7 +36,7 @@ dependencies:
   dio:
   marquee:
   webview_flutter:
-  shared_preferences:
+  shared_preferences: ^2.0.13
 
 
 
@@ -47,6 +47,13 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: "^0.9.2"
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/abc.png"
+  adaptive_icon_foreground : "assets/images/abc.png"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

@@ -10,7 +10,7 @@
     </intent>
     </queries>
    <application
-        android:label="news_app"
+        android:label="Abc News"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
