@@ -4,7 +4,7 @@ A new Flutter project.
 
 Bloc - Dark Mode - SharedPreferences
 
-# Todo App
+# ABC NEWS APP
   <p align="center">
     <img src="https://user-images.githubusercontent.com/78268762/159336962-6be6ba88-4012-4b0f-b568-0c683cdd3edb.png" width="220" height="400" />
 &nbsp; &nbsp; &nbsp; 
